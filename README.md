@@ -49,3 +49,5 @@ Support Vector Machine (SVM) – For high-dimensional data classification.
 Neural Networks (TensorFlow/Keras) – For deep learning-based predictions.
 
  ![WhatsApp Image 2025-02-24 at 00 23 35_61688417](https://github.com/user-attachments/assets/35115dab-df01-4ed5-837a-0fb6ca6bea68)
+
+**Random Forest, Logistic Regression, and Neural Networks are the most reliable models for predicting student depression based on accuracy.**
