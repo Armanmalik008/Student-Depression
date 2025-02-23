@@ -48,4 +48,4 @@ Random Forest Classifier – To capture complex relationships in the data.
 Support Vector Machine (SVM) – For high-dimensional data classification.
 Neural Networks (TensorFlow/Keras) – For deep learning-based predictions.
 
-![Screenshot (77)](https://github.com/user-attachments/assets/63a7d8eb-bc24-47dd-86b2-0870b4c385db)
+ ![WhatsApp Image 2025-02-24 at 00 23 35_61688417](https://github.com/user-attachments/assets/35115dab-df01-4ed5-837a-0fb6ca6bea68)
