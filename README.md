@@ -47,3 +47,5 @@ Logistic Regression – For binary classification of depression risk.
 Random Forest Classifier – To capture complex relationships in the data.
 Support Vector Machine (SVM) – For high-dimensional data classification.
 Neural Networks (TensorFlow/Keras) – For deep learning-based predictions.
+
+![Screenshot (77)](https://github.com/user-attachments/assets/63a7d8eb-bc24-47dd-86b2-0870b4c385db)
